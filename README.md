@@ -1,7 +1,5 @@
 # PrateekPad
 
-![Case](images/case.png)
-
 PrateekPad is my custom 9-key macropad built completely from scratch.  
 This was my first time designing a PCB, writing firmware for a microcontroller, and building a full 3D printed enclosure around it.
 
