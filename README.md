@@ -65,7 +65,7 @@ The OLED displays the current active layer for quick feedback.
 ![Assembly](images/case.png)
 
 ### Schematic
-![Schematic](images/schematic)
+![Schematic](images/schematic.png)
 
 ### PCB Layout
 ![PCB](images/pcb.png)
