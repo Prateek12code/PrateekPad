@@ -61,7 +61,7 @@ The OLED displays the current active layer for quick feedback.
 
 ## Design Snapshots
 
-### Full Assembly
+### Case
 ![Assembly](images/case.png)
 
 ### Schematic
