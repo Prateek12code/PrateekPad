@@ -27,19 +27,11 @@ The goal of this project was to learn the complete workflow of designing a hardw
 
 ---
 
-## Assembled Model
+## Assembled Model & Case Model
 
 ![Macropad Assembly](images/assembled.png)
 
 This shows the full assembled design including the case, switches, OLED display, and rotary encoder.
-
----
-
-## Case Design
-
-![Case](images/case.png)
-
-The enclosure was designed to be fully 3D printable with a removable switch plate and bottom panel.
 
 ---
 
